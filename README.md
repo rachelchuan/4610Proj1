@@ -18,3 +18,8 @@ Data Dictionary:
 
 Ten Queries(6 complex 4 simple):
 
+
+
+<img width="870" alt="Screenshot 2025-02-17 at 11 46 11 AM" src="https://github.com/user-attachments/assets/009ba88a-95a3-43e8-af5f-34fdd9ad1d9f" />
+
+<img width="871" alt="Screenshot 2025-02-17 at 11 46 43 AM" src="https://github.com/user-attachments/assets/fddbdb44-481d-4aa5-ab12-2f6033a2c2ec" />
