@@ -1,7 +1,9 @@
+
 # 4610Proj1
 4610 Group Project 1: Gym Database
 
-Members: 
+Members: <img width="892" alt="Screenshot 2025-03-12 at 11 25 08 AM" src="https://github.com/user-attachments/assets/74a0781a-0ce9-4341-9afc-ea8c391e790c" />
+
 
 Scenario Description:
 
