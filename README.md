@@ -40,8 +40,9 @@ PrivateSessions is designed for members interested in one-on-one training with a
 
 Data Model: ![PNG image](https://github.com/user-attachments/assets/0ff63217-db8d-4775-9340-358eb8646225)
 
-Data Dictionary: <img width="880" alt="Screenshot 2025-03-16 at 5 31 42 PM" src="https://github.com/user-attachments/assets/06af4589-d64b-431c-84ef-5fdb1719f4b7" />
-<img width="879" alt="Screenshot 2025-03-16 at 5 35 22 PM" src="https://github.com/user-attachments/assets/62d0c915-16a4-41ed-81f0-544b8fb2d2d5" />
+Data Dictionary: <img width="880" alt="Screenshot 2025-03-18 at 3 13 55 PM" src="https://github.com/user-attachments/assets/e884bd6c-43aa-4198-a2cc-ab6b9f2b3f62" />
+<img width="878" alt="Screenshot 2025-03-18 at 3 14 20 PM" src="https://github.com/user-attachments/assets/4a1d623c-aefb-4879-9b49-b1565d722005" />
+
 
 Query 5: Retrieves the total number of members per membership plan and sorts in descending order. This query organizes the number of members in each membership plan and can be used to send emails that specifically cater to the type of membership they have.
 <img width="807" alt="423557637-7cba7469-c76b-4a49-a9be-178404da4726" src="https://github.com/user-attachments/assets/e7ecf9b8-40fa-45a9-939e-bb78e6df916f" />
