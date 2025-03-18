@@ -43,13 +43,13 @@ Data Model: ![PNG image](https://github.com/user-attachments/assets/0ff63217-db8
 Data Dictionary: <img width="880" alt="Screenshot 2025-03-16 at 5 31 42 PM" src="https://github.com/user-attachments/assets/06af4589-d64b-431c-84ef-5fdb1719f4b7" />
 <img width="879" alt="Screenshot 2025-03-16 at 5 35 22 PM" src="https://github.com/user-attachments/assets/62d0c915-16a4-41ed-81f0-544b8fb2d2d5" />
 
-Query 5: #Retrieve the total number of members per membership plan and sort in descending order: CALL TP_Q5();
+Query 5: Retrieves the total number of members per membership plan and sorts in descending order. This query organizes the number of members in each membership plan and can be used to send emails that specifically cater to the type of membership they have.
 <img width="807" alt="423557637-7cba7469-c76b-4a49-a9be-178404da4726" src="https://github.com/user-attachments/assets/e7ecf9b8-40fa-45a9-939e-bb78e6df916f" />
 
-Query 6: #Find Members Who Have Never Signed Up for a Class or a Private Session: CALL TP_Q6();
+Query 6: Finds members who have never signed up for a class or a private session. This query finds gym members that have not signed up for a class or session, this informaton can be used to send emails to members to encourage them to sign-up.
 <img width="704" alt="423557732-c1f994ce-d061-417d-a8e7-0d02e233b5f8" src="https://github.com/user-attachments/assets/73c32b06-6c0b-43c5-bb0f-ff5232d63248" />
 
-Query 7: #Find all equipment in a specific gym: CALL TP_Q7();
+Query 7: Find all the equipment in a specific gym. This query organizes the equipment for gym 6, which can be used to keep track of the equipment.
 <img width="456" alt="423557791-ff74a3b9-5a39-47f3-8ab8-ae328bc468ec" src="https://github.com/user-attachments/assets/ad9cef66-90fd-4cf8-89f7-fa9a9224a911" />
 
 
